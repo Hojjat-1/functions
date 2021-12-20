@@ -1,0 +1,8 @@
+version: 1.0.0
+root_folder: apis
+functions:
+  awesome:
+    runtime: nodejs12.x
+  hello_world:
+    runtime: nodejs14.x
+
